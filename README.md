@@ -3,7 +3,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-[Jason Bryer, Ph.D.](https://bryer.org), [Heidi Andrade, Ed.D.](https://www.albany.edu/education/faculty/heidi-l-andrade), [Timothy Cleary, Ph.D.](https://gsapp.rutgers.edu/timothy-cleary), Angela Lui, Ph.D., and David Franklin, Ph.D.
+## Authors
+
+**Principal Investigators**: [Jason Bryer, Ph.D.](https://bryer.org), [Heidi Andrade, Ed.D.](https://www.albany.edu/education/faculty/heidi-l-andrade), and [Timothy Cleary, Ph.D.](https://gsapp.rutgers.edu/timothy-cleary)  
+**Project Manager**: Angela Lui, Ph.D.  
+**Research Assicate**: David Franklin, Ph.D.
 
 This repository contains the research evaluating the efficacy of the Diagnostic Assessment and Achievement of College Skills (DAACS). The following links contain more information about DAACS:
 
