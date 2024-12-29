@@ -9,6 +9,8 @@
 **Project Manager**: Angela Lui, Ph.D.  
 **Research Assicate**: David Franklin, Ph.D.
 
+## Links
+
 This repository contains the research evaluating the efficacy of the Diagnostic Assessment and Achievement of College Skills (DAACS). The following links contain more information about DAACS:
 
 * [daacs.net](https://daacs.net) - This site has some general information about DAACS including latest news.
@@ -26,6 +28,7 @@ The Diagnostic Assessment and Achievement of College Skills (DAACS) is an interv
 * [`R/`](R/) - Supplemental R scripts.
 
 
+----------
 
 *DAACS was developed under grants #P116F150077 and #R305A210269 from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.*
 
